@@ -1,6 +1,6 @@
 ﻿namespace Hello
 {
-    public class HelloWorld
+    public class Hello
     {
         static void Main(string[] args)
         {
